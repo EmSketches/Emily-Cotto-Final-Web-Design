@@ -1,0 +1,25 @@
+body {
+	background: #87CEFA;
+	font-family: arial ;
+}
+h1 {
+	font-size: 18px;
+}
+a {
+	color: #000000;
+	text-decoration: underline;
+}
+p {
+	font-size: 21px;
+}
+ul {
+	list-style-type: none;
+	margin: 0;
+	padding:0;
+	width: 200px;
+	background-color: #f1f1f1;
+}
+li a {
+	display: block;
+	width: 60px;
+}
